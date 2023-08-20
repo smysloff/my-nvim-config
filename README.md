@@ -1,3 +1,8 @@
-# smysloff's init.lua
+# My init.lua
 
-Prerequisite: install [ripgrep](https://github.com/BurntSushi/ripgrep)
+This is a pretty simple and basic neovim setup that I use at work and at home.
+
+
+## Prerequisite
+
+* [ripgrep](https://github.com/BurntSushi/ripgrep)

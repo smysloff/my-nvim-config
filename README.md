@@ -1,4 +1,4 @@
-# My init.lua
+# My NeoVim config files (init.lua)
 
 This is a pretty simple and basic neovim setup that I use at work and at home.
 

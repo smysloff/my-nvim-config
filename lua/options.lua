@@ -19,6 +19,7 @@ local options = {
   splitbelow = true,
   splitright = true,
   scrolloff = 8,
+  signcolumn = 'number',
 }
 
 for key,value in pairs(options) do

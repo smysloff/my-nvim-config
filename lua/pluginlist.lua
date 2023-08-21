@@ -29,8 +29,18 @@ return {
   },
 
   {
-    'VonHeikemen/lsp-zero.nvim',
-    branch = 'v2.x',
+    'williamboman/mason.nvim',
+
+    config = function()
+      require('mason').setup({
+	ui = { border = 'rounded' }
+      })
+    end,
+  },
+
+  {
+    'VonHeikemen/lsp-zero.nvim', branch = 'v2.x',
+
     dependencies = {
 
       -- LSP Support

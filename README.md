@@ -8,7 +8,7 @@ For this configuration to work properly, the following packages must be installe
 
 | Package | Description |
 |---------|-------------|
-| [ripgrep](https://github.com/BurntSushi/ripgrep) | Recursively searches directories for a regex pattern while respecting your gitignore |
+| [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | Recursively searches directories for a regex pattern while respecting your gitignore |
 
 ## Plugins
 
